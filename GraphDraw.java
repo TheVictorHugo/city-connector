@@ -1,6 +1,6 @@
 /*
- * Simple graph drawing class. Updated for homework 4 Bert Huang COMS 3137 Data
- * Structures and Algorithms, Spring 2009
+ * Simple graph drawing class. Author: Updated for homework 4 Bert Huang COMS 3137 Data
+ * Structures and Algorithms, Spring 2009. 
  * 
  * New version operates as a JPanel and eliminates enhanced for loops. This
  * should alleviate some of the multithreading exceptions that were occurring
