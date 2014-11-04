@@ -9,4 +9,4 @@ Simply use the makefile.
 
 To run
 -------
-  java CityConnector cities.txt 
+    java CityConnector cities.txt 
